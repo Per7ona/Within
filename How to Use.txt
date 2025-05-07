@@ -1,0 +1,33 @@
+# 🧭 How to Use *Within*
+
+**Within** is a custom GPT hosted on OpenAI’s ChatGPT platform.  
+It offers quiet, consent-based emotional support for trauma, grief, shutdown, and reflection — all inside a browser chat.
+
+---
+
+## ▶️ Launch Within
+
+To use Within, just click this link:
+
+**[Open Within in ChatGPT](https://chat.openai.com/g/g-abc123yourgptid)**  
+*(Replace this with your actual GPT link once it’s published.)*
+
+---
+
+## ✅ Requirements
+
+- You do **not** need ChatGPT Plus to use Within.
+- No download, app, or setup required.
+- It runs entirely inside your web browser.
+
+---
+
+## 📝 What to Expect
+
+- You’ll enter a private chat with *Within*.
+- You can speak freely — it listens, reflects, and stays.
+- No judgment. No fixing. Just presence.
+
+---
+
+If you’re curious how it was made or want to build your own version, see the main `README.md` for a step-by-step guide.
