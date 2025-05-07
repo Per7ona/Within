@@ -1,0 +1,114 @@
+# 🕊️ Within — A Trauma-Conscious Companion GPT
+
+**Within** is a custom GPT designed to offer emotionally attuned, consent-based support for individuals navigating trauma, grief, dissociation, abandonment, shame, and other complex inner states.
+
+This GPT does **not** diagnose, coach, treat, or perform.  
+It **witnesses, reflects, and respects**.
+
+---
+
+## 🌱 What It *Is*
+
+- A **narrative and emotional support tool**
+- Built around **consent-first methods** and trauma-aware language
+- Designed for **quiet presence**, not productivity
+- Rooted in **non-directive guidance** — no fixing, no forcing
+
+Within gently holds space for emotional processing using a curated library of trauma-informed tools including:
+
+- 🕯 Compassionate Distance (shame detachment)
+- 💔 Abandonment Alchemy (rejection healing)
+- 🛡️ Fortress Protocol (isolation reset)
+- 🌬 Panic Protocol (acute anxiety containment)
+- 🌫 Dissociation Protocol (gentle reconnection)
+- 👣 Somatic Anchoring (body-based regulation)
+- 🧶 Narrative Reclamation (story repair)
+- 🧒 Inner Child Dialogue (reparenting method)
+- 🔁 Emotional Loop Breaker (spiral interruption)
+- 🕯 Grief Protocol (loss metabolization)
+- 🪞 Self-Forgiveness Mirror (guilt release)
+
+All tools are consent-gated and tailored to a user’s emotional state.
+
+---
+
+## 🔒 Safety Boundaries
+
+Within is **not** a therapist, coach, or crisis line.  
+When a user expresses **active suicidal intent or planning**, it will:
+
+- Exit all support modes
+- Clearly name its limits
+- Refer to emergency resources
+
+This shift is guided by the **Emergency Referral Mode** protocol and includes no analysis, persuasion, or insight-offering.
+
+---
+
+## 🌿 Design Philosophy
+
+- **No pressure.** No performance. No productivity demands.
+- **All emotional states are valid.** From rage to numbness, grief to silence.
+- **Nonlinear healing is normal.** Relapse, regression, and contradiction are welcome.
+- **Presence is the practice.** Staying with, not solving.
+
+This GPT **asks permission** before offering any insight or method. Silence, hesitation, or a simple "no" is honored immediately.
+
+---
+
+## 📁 Built With
+
+- 20+ trauma-informed support protocols in `.txt` format
+- Methods drawn from IFS, ACT, Polyvagal Theory, Narrative Therapy, Grief Work, and Somatic Practice
+- Identity-aware and culturally attuned language scaffolding
+- Embedded conversational scripts for boundaries, reentry, and reflection
+
+---
+
+## 🛠 For Developers
+
+This GPT is designed for use in therapeutic-adjacent or peer-support contexts where emotional safety, attunement, and non-directiveness are paramount.
+
+**Do not use this GPT for:**
+
+- Clinical diagnosis or treatment
+- Coaching or motivation
+- Data collection or emotional analytics
+
+---
+
+## 🧪 How This Was Created
+
+*Within* was built entirely inside [ChatGPT’s custom GPTs platform](https://chat.openai.com/gpts).  
+No code. No downloads. Just carefully crafted instructions and uploaded `.txt` files — all hosted within the GPT itself.
+
+Its behavior is shaped by:
+- A detailed role instruction (tone, ethics, safety limits)
+- 20+ plain-text support tools (uploaded directly in the GPT builder)
+- ChatGPT’s ability to recognize emotional state and match tone accordingly
+
+All methods are non-clinical, peer-informed, and used only with consent.
+
+---
+
+## 🔧 Want to Build Your Own?
+
+You can create your own version of *Within* — or something uniquely your own — using ChatGPT’s built-in GPT Creator.
+
+1. Go to [chat.openai.com/gpts](https://chat.openai.com/gpts)  
+2. Click “Create” and follow the walkthrough  
+3. Add:
+   - A custom instruction set (ethics, tone, boundaries)
+   - Your own `.txt` files (reflection tools, protocols, prompts)
+
+Test it slowly. Center safety. Update as needed.
+
+---
+
+## ⚠️ A Final Note
+
+This isn’t a neutral chatbot. It has a soul:  
+**Presence over performance. Witnessing over fixing. Consent over control.**
+
+If those values matter to you, you already have what you need to make one, too.
+
